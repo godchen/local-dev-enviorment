@@ -1,0 +1,25 @@
+{
+  "name": "web-dev-server",
+  "version": "1.0.0",
+  "description": "local development enviorment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godchen/local-dev-enviorment.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "godchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godchen/local-dev-enviorment/issues"
+  },
+  "homepage": "https://github.com/godchen/local-dev-enviorment#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
